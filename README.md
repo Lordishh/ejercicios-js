@@ -51,4 +51,8 @@ Intenta completar un ejercicio y vuelve a ejecutar.
 ## Como avanzar con los ejercicios:
 Para realizar los ejercicios deben abrir el archivo `CONSIGNAS.md` con "vista previa" y cumplir con los objetivos. Cada ejercicio tiene una descripción y una orientación de que es lo que se espera resolver.
 
+Las funciones a terminar de implementar se encuentran dentro de la carpeta `src`, el archivo `homeworks.js`.
+
+¡¡¡Buen código a todos!!!
+
 Ante cualquier duda, pueden preguntar en el apartado de consultas o bien contactarme directamente y estaré dispuesto a ayudarlos.
